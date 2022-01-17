@@ -25,16 +25,16 @@ https://q3dy4.csb.app/
 # 5.background
 Code and Demo
 https://codesandbox.io/s/priceless-fast-9rhdc?file=/index.html
- Live DEMO Link ->
+Live DEMO Link ->
 https://9rhdc.csb.app/
 
 # 6-table
 Code and Demo
 https://codesandbox.io/s/flamboyant-flower-x72ts?file=/index.html:0-2033
- Live DEMO Link ->
+Live DEMO Link ->
 https://x72ts.csb.app/
 
-#7-flex-cards
+# 7-flex-cards
 https://codesandbox.io/s/runtime-sun-gvr5r?file=/index.html
-# Live DEMO Link ->
+Live DEMO Link ->
 https://gvr5r.csb.app/
